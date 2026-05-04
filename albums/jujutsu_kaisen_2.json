@@ -1,0 +1,29 @@
+{
+  "albumName": "Jujutsu Kaisen 2",
+  "editorial": "Navarrete",
+  "sections": [
+    { "name": "Inicio", "from": 1, "to": 5, "specials": [1, 2, 3, 4, 5] },
+    { "name": "El Tesoro Escondido", "from": 6, "to": 38, "specials": [12, 15, 20, 30, 35] },
+    { "name": "El Tesoro Perdido", "from": 39, "to": 47, "specials": [39, 43] },
+    { "name": "El Incidente de Shibuya", "from": 48, "to": 56, "specials": [48] },
+    { "name": "La Vispera del Festival", "from": 57, "to": 65, "specials": [62] },
+    { "name": "El Incidente de Shibuya: Parte 1", "from": 66, "to": 73, "specials": [70] },
+    { "name": "El Incidente de Shibuya: Apertura del Portal", "from": 74, "to": 82, "specials": [74] },
+    { "name": "Confusion", "from": 83, "to": 90, "specials": [88] },
+    { "name": "Espiritismo", "from": 91, "to": 99, "specials": [92] },
+    { "name": "Espada Obtusa", "from": 100, "to": 107, "specials": [107] },
+    { "name": "Escamas Carmesi", "from": 108, "to": 116, "specials": [115] },
+    { "name": "Temblores", "from": 117, "to": 125, "specials": [121] },
+    { "name": "Temblores: Parte 2", "from": 126, "to": 134, "specials": [129] },
+    { "name": "Trueno", "from": 135, "to": 143, "specials": [137] },
+    { "name": "Trueno: Parte 2", "from": 144, "to": 152, "specials": [149] },
+    { "name": "Lo Correcto y lo Incorrecto", "from": 153, "to": 161, "specials": [154] },
+    { "name": "Lo Correcto y lo Incorrecto: Parte 2", "from": 162, "to": 170, "specials": [170] },
+    { "name": "Lo Correcto y lo Incorrecto: Parte 3", "from": 171, "to": 179, "specials": [174] },
+    { "name": "Metamorfosis", "from": 180, "to": 188, "specials": [188] },
+    { "name": "Metamorfosis: Parte 2", "from": 189, "to": 198, "specials": [191] },
+    { "name": "El Incidente de Shibuya: Cierre de Portal", "from": 199, "to": 212, "specials": [201, 207] },
+    { "name": "Personajes Troquelados", "prefix": "T", "count": 28 },
+    { "name": "Chibis Troquelados Encarte", "prefix": "E", "count": 36 }
+  ]
+}

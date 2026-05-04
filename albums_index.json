@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mundial_2026",
+    "file": "albums/mundial_2026.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "jujutsu_kaisen_1",
+    "file": "albums/jujutsu_kaisen_1.json",
+    "visible": false,
+    "version": 1
+  },
+  {
+    "id": "jujutsu_kaisen_2",
+    "file": "albums/jujutsu_kaisen_2.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "capitan_tsubasa",
+    "file": "albums/capitan_tsubasa.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "demon_slayer",
+    "file": "albums/demon_slayer.json",
+    "visible": false,
+    "version": 1
+  },
+  {
+    "id": "mundial_2026_panini",
+    "file": "albums/mundial_2026_panini.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "adrenalyn_mundial_2026",
+    "file": "albums/adrenalyn_mundial_2026.json",
+    "visible": true,
+    "version": 1
+  }
+]

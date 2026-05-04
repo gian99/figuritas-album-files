@@ -1,0 +1,9 @@
+{
+  "albumName": "Jujutsu Kaisen 1 Test",
+  "editorial": "Navarrete",
+  "sections": [
+    { "name": "Itadori", "from": 1, "to": 16 },
+    { "name": "Resto del Equipo", "from": 17, "to": 200, "specials": [19, 31,22,33,55,70,88,100,102,151,166,178,199] },
+    { "name": "Cazadores", "prefix": "T", "count": 30 }
+  ]
+}

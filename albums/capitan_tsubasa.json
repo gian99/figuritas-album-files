@@ -1,0 +1,36 @@
+{
+  "albumName": "Capitán Tsubasa",
+  "editorial": "Navarrete",
+  "sections": [
+    {
+      "name": "El Campeonato Interescolar",
+      "from": 1,
+      "to": 23,
+      "specials": [5, 9, 16, 22]
+    },
+    {
+      "name": "El Torneo Nacional de las Primarias",
+      "from": 24,
+      "to": 63,
+      "specials": [25, 38, 43, 48, 56]
+    },
+    {
+      "name": "El Torneo Nacional de las Secundarias",
+      "from": 64,
+      "to": 119,
+      "specials": [69, 79, 84, 94, 102, 105, 116]
+    },
+    {
+      "name": "Torneo Juvenil Junior",
+      "from": 120,
+      "to": 219,
+      "specials": [123, 132, 145, 153, 160, 170, 178, 190, 202, 204, 211]
+    },
+    {
+      "name": "Las Estrellas del Campeonato Mundial Juvenil",
+      "from": 220,
+      "to": 224,
+      "specials": [220, 221, 222, 223, 224]
+    }
+  ]
+}
