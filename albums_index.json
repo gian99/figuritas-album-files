@@ -40,5 +40,23 @@
     "file": "albums/adrenalyn_mundial_2026.json",
     "visible": true,
     "version": 1
+  },
+  {
+    "id": "panini_mundial_clubes_2025",
+    "file": "albums/panini_mundial_clubes_2025.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "panini_universitario_100_anhos",
+    "file": "albums/panini_universitario_100_anhos.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "panini_copa_libertadores_2025",
+    "file": "albums/panini_copa_libertadores_2025.json",
+    "visible": true,
+    "version": 1
   }
 ]
