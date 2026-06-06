@@ -58,5 +58,11 @@
     "file": "albums/panini_copa_libertadores_2025.json",
     "visible": true,
     "version": 1
+  },
+  {
+    "id": "flash_edition_mundial_2026",
+    "file": "albums/flash_edition_mundial_2026.json",
+    "visible": true,
+    "version": 1
   }
 ]
