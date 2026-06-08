@@ -64,5 +64,11 @@
     "file": "albums/flash_edition_mundial_2026.json",
     "visible": true,
     "version": 2
+  },
+  {
+    "id": "gol_publicacion_copa_mundial_2026.json",
+    "file": "albums/gol_publicacion_copa_mundial_2026.json",
+    "visible": true,
+    "version": 1
   }
 ]
