@@ -70,5 +70,11 @@
     "file": "albums/gol_publicacion_copa_mundial_2026.json",
     "visible": true,
     "version": 4
+  },
+  {
+    "id": "3_reyes_mario_galaxy",
+    "file": "albums/3_reyes_mario_galaxy.json",
+    "visible": true,
+    "version": 1
   }
 ]
