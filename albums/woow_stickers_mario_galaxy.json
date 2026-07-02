@@ -11,7 +11,7 @@
 	{ "name": "Bowser Jr", "from": 33, "to": 38 , "specials": [36,38]},
 	{ "name": "Princess Peach", "from": 39, "to": 44 , "specials": [43]},
 	{ "name": "Rosalina", "from": 45, "to": 50 , "specials": [45]},
-	{ "name": "Personajes", "from": 51, "to": 124 , "specials": [57,58,71,82,97,101,111,115,116]},
+	{ "name": "Personajes", "from": 51, "to": 124 , "specials": [57,58,71,82,97,101,115,116]},
 	{ "name": "Inicio del Viaje", "from": 125, "to": 130 , "specials": [127]},
 	{ "name": "Surge la Amenaza", "from": 131, "to": 136 , "specials": [133]},
 	{ "name": "Alianzas y Enfrentamientos", "from": 137, "to": 142 , "specials": [139]},
