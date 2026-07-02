@@ -21,7 +21,7 @@
 	{ "name": "Final y Resolucion", "from": 161, "to": 166 },
 	{ "name": "Super Mario Wonder", "from": 167, "to": 172 , "specials": [171]},
 	{ "name": "Luigi's Mansion 2", "from": 173, "to": 178},
-	{ "name": "Princess Peach Showtime", "from": 179, "to": 184 , "specials": [171]},
+	{ "name": "Princess Peach Showtime", "from": 179, "to": 184},
 	{ "name": "Super Mario Party Jamboree", "from": 185, "to": 190 , "specials": [186]},
 	{ "name": "Super Mario Games Timeline", "from": 191, "to": 206},
     { "name": "Troqueladas", "prefix": "T", "count": 20 }

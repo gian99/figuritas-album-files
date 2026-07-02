@@ -7,7 +7,7 @@
 	{ "name": "Peach", "from": 34, "to": 39 , "specials": [34]},
 	{ "name": "Toad", "from": 40, "to": 45 , "specials": [41]},
 	{ "name": "Rosalina", "from": 46, "to": 51 , "specials": [47]},
-	{ "name": "Yoshi", "from": 52, "to": 57 , "specials": [47]},
+	{ "name": "Yoshi", "from": 52, "to": 57 },
 	{ "name": "Bowser", "from": 58, "to": 70 , "specials": [70]},
 	{ "name": "Bowser Jr", "from": 71, "to": 76 , "specials": [76]},
 	{ "name": "Kamek", "from": 77, "to": 78 , "specials": [78]},
