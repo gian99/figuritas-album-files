@@ -1,0 +1,29 @@
+{
+  "albumName": "Mario Galaxy",
+  "editorial": "WOOW Stickers",
+  "sections": [
+    { "name": "Intro", "from": 1, "to": 6 , "specials": [5,6]},
+	{ "name": "Mario", "from": 7, "to": 11 , "specials": [7,8,10]},
+	{ "name": "Luigi", "from": 12, "to": 16 , "specials": [14,16]},
+	{ "name": "Toad", "from": 17, "to": 21 , "specials": [20,21]},
+	{ "name": "Yoshi", "from": 22, "to": 27 , "specials": [24,27]},
+	{ "name": "Bowser", "from": 28, "to": 32 , "specials": [28,31]},
+	{ "name": "Bowser Jr", "from": 33, "to": 38 , "specials": [36,38]},
+	{ "name": "Princess Peach", "from": 39, "to": 44 , "specials": [43]},
+	{ "name": "Rosalina", "from": 45, "to": 50 , "specials": [45]},
+	{ "name": "Personajes", "from": 51, "to": 124 , "specials": [57,58,71,82,97,101,111,115,116]},
+	{ "name": "Inicio del Viaje", "from": 125, "to": 130 , "specials": [127]},
+	{ "name": "Surge la Amenaza", "from": 131, "to": 136 , "specials": [133]},
+	{ "name": "Alianzas y Enfrentamientos", "from": 137, "to": 142 , "specials": [139]},
+	{ "name": "Intensificacion", "from": 143, "to": 148 },
+	{ "name": "Crisis", "from": 149, "to": 154 , "specials": [149]},
+	{ "name": "Punto mas Oscuro", "from": 155, "to": 160 , "specials": [157,158]},
+	{ "name": "Final y Resolucion", "from": 161, "to": 166 },
+	{ "name": "Super Mario Wonder", "from": 167, "to": 172 , "specials": [171]},
+	{ "name": "Luigi's Mansion 2", "from": 173, "to": 178},
+	{ "name": "Princess Peach Showtime", "from": 179, "to": 184 , "specials": [171]},
+	{ "name": "Super Mario Party Jamboree", "from": 185, "to": 190 , "specials": [186]},
+	{ "name": "Super Mario Games Timeline", "from": 191, "to": 206},
+    { "name": "Troqueladas", "prefix": "T", "count": 20 }
+  ]
+}

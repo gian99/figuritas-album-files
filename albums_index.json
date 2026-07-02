@@ -75,6 +75,12 @@
     "id": "3_reyes_mario_galaxy",
     "file": "albums/3_reyes_mario_galaxy.json",
     "visible": true,
+    "version": 3
+  },
+  {
+    "id": "woow_stickers_mario_galaxy",
+    "file": "albums/woow_stickers_mario_galaxy.json",
+    "visible": true,
     "version": 1
   }
 ]

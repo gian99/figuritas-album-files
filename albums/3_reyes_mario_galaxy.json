@@ -2,9 +2,24 @@
   "albumName": "Mario Galaxy",
   "editorial": "3 Reyes",
   "sections": [
-    { "name": "En el Mundo Real", "from": 1, "to": 16 },
-    { "name": "En el Castillo", "from": 17, "to": 200, "specials": [19, 31,22,33,55,70,88,100,102,151,166,178,199] },
-    { "name": "Rescatando a la Princesa", "from": 201, "to": 270, "specials": [222,223,250,261,270] },
-    { "name": "Personales", "prefix": "T", "count": 10 }
+    { "name": "Intro", "from": 1, "to": 7 , "specials": [1]},
+    { "name": "Luigi", "from": 21, "to": 33 , "specials": [31]},
+	{ "name": "Peach", "from": 34, "to": 39 , "specials": [34]},
+	{ "name": "Toad", "from": 40, "to": 45 , "specials": [41]},
+	{ "name": "Rosalina", "from": 46, "to": 51 , "specials": [47]},
+	{ "name": "Yoshi", "from": 52, "to": 57 , "specials": [47]},
+	{ "name": "Bowser", "from": 58, "to": 70 , "specials": [70]},
+	{ "name": "Bowser Jr", "from": 71, "to": 76 , "specials": [76]},
+	{ "name": "Kamek", "from": 77, "to": 78 , "specials": [78]},
+	{ "name": "Birdo", "from": 79, "to": 80 , "specials": [79]},
+	{ "name": "Wart", "from": 81, "to": 82 , "specials": [81]},
+	{ "name": "Personajes de Mario", "from": 83, "to": 98 , "specials": [85,91,93]},
+	{ "name": "Villanos de Mario", "from": 99, "to": 114 , "specials": [102,114]},
+	{ "name": "Potenciadores Magicos", "from": 115, "to": 126 , "specials": [118,126]},
+	{ "name": "Guia de Exploracion Galactica", "from": 127, "to": 137 , "specials": [131,136]},
+	{ "name": "Videojuego: Super Mario Galaxy", "from": 138, "to": 142 , "specials": [138]},
+	{ "name": "Videojuego: Super Mario Galaxy 2", "from": 143, "to": 147 , "specials": [147]},
+	{ "name": "Super Mario Galaxy: La Pelicula", "from": 148, "to": 202 , "specials": [151,159,164,167,174,178,187,192,202]},
+    { "name": "Troqueladas", "prefix": "M", "count": 11 }
   ]
 }
