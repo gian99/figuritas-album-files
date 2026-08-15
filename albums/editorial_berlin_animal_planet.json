@@ -1,0 +1,22 @@
+{
+  "albumName": "Animal Planet",
+  "editorial": "Editorial Berlin",
+  "sections": [
+    { "name": "Inicio", "from": 1, "to": 6, "specials": [5] },
+    { "name": "Gigantes de la sabana y la Pradera", "from": 7, "to": 16, "specials": [8,14] },
+    { "name": "Señores del Frio y de la Altura", "from": 17, "to": 21, "specials": [18] },
+    { "name": "Animales Domesticos y de Granja", "from": 22, "to": 27, "specials": [23] },
+    { "name": "Dinosaurios", "from": 28, "to": 33, "specials": [30] },
+    { "name": "Reptiles y Cazadores del Suelo", "from": 34, "to": 38, "specials": [38] },
+    { "name": "Vida Salvaje de Bosques y Montañas", "from": 39, "to": 45, "specials": [44] },
+    { "name": "Habitantes de la Selva Tropical", "from": 46, "to": 50, "specials": [46] },
+    { "name": "Mundo Marino", "from": 51, "to": 65, "specials": [55,59,61] },
+    { "name": "Insectos", "from": 66, "to": 75, "specials": [70,73] },
+    { "name": "Supervivientes de Ambientes Extremos", "from": 76, "to": 81, "specials": [80] },
+    { "name": "Guardianes de Especies en Peligro", "from": 82, "to": 137, "specials": [82,89,93,101,103,111,113,119,123,130,134] },
+    { "name": "Habitats", "from": 138, "to": 153, "specials": [140,145,149] },
+    { "name": "Comic Book", "from": 154, "to": 163, "specials": [157,158] },
+    { "name": "nature Heroes", "from": 164, "to": 170, "specials": [167] },
+    { "name": "Troquelados", "prefix": "T", "count": 12 }
+  ]
+}

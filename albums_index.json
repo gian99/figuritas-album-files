@@ -88,5 +88,17 @@
     "file": "albums/navarrete_solo_leveling.json",
     "visible": true,
     "version": 2
+  },
+  {
+    "id": "woow_stickers_toy_story_5",
+    "file": "albums/woow_stickers_toy_story_5.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "editorial_berlin_animal_planet",
+    "file": "albums/editorial_berlin_animal_planet.json",
+    "visible": true,
+    "version": 1
   }
 ]

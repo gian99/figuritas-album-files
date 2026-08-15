@@ -1,0 +1,23 @@
+{
+  "albumName": "Toy Story 5",
+  "editorial": "WOOW Stickers",
+  "sections": [
+    { "name": "Intro", "from": 1, "to": 5 , "specials": [5]},
+	{ "name": "Woody", "from": 6, "to": 11 , "specials": [10]},
+	{ "name": "Buzz Lightyear", "from": 12, "to": 17 , "specials": [13]},
+	{ "name": "Jessie", "from": 18, "to": 23 , "specials": [22]},
+	{ "name": "Tiro al Blanco", "from": 24, "to": 29 , "specials": [27]},
+	{ "name": "Boo Beep", "from": 30, "to": 35 , "specials": [32,34]},
+	{ "name": "Lilypad", "from": 36, "to": 41 , "specials": [40]},
+	{ "name": "Trio Tech", "from": 42, "to": 47 , "specials": [46]},
+	{ "name": "Amigos", "from": 48, "to": 65 , "specials": [50,58,65]},
+	{ "name": "Andy", "from": 66, "to": 68 , "specials": [66]},
+	{ "name": "Bonnie", "from": 69, "to": 71 , "specials": [69]},
+	{ "name": "Toy Story 5", "from": 72, "to": 125 , "specials": [74,81,93,95,101,121]},
+	{ "name": "Toy Story - El Comienzo", "from": 126, "to": 143 , "specials": [130,140,143]},
+	{ "name": "Toy Story 2", "from": 144, "to": 160 , "specials": [150,158,160]},
+	{ "name": "Toy Story 3", "from": 161, "to": 179 , "specials": [165,168,176]},
+	{ "name": "Toy Story 4", "from": 180, "to": 197 , "specials": [181,187,197]},
+    { "name": "Troquelados", "prefix": "T", "count": 12 }
+  ]
+}
