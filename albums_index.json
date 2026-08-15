@@ -82,5 +82,11 @@
     "file": "albums/woow_stickers_mario_galaxy.json",
     "visible": true,
     "version": 3
+  },
+  {
+    "id": "navarrete_solo_leveling",
+    "file": "albums/navarrete_solo_leveling.json",
+    "visible": true,
+    "version": 1
   }
 ]

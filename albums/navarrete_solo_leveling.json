@@ -1,0 +1,12 @@
+{
+  "albumName": "Solo Leveling - Temporada 1 y 2",
+  "editorial": "Navarrete",
+  "sections": [
+    { "name": "Primera Temporada", "from": 1, "to": 90 , "specials": [77,86] },
+    { "name": "Segunda Temporada", "from": 91, "to": 206, "specials": [93,100,148,162,192,206] },
+    { "name": "Cazadores", "prefix": "S", "from": 1, "to": 6 , "allSpecial": true },
+    { "name": "Sombras", "prefix": "S", "from": 7, "to": 18, "allSpecial": true },
+    { "name": "Cazadores", "prefix": "S", "from": 19, "to": 24, "allSpecial": true },
+    { "name": "Troqueladas", "prefix": "T", "count": 14 }
+  ]
+}
