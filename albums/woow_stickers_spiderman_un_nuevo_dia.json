@@ -1,0 +1,23 @@
+{
+  "albumName": "Spiderman Un Nuevo Dia",
+  "editorial": "WOOW Stickers",
+  "sections": [
+    { "name": "Intro", "from": 1, "to": 6 },
+	{ "name": "Peter Parker", "from": 7, "to": 18 , "specials": [10,13,18]},
+	{ "name": "Mary Jane", "from": 19, "to": 24  , "specials": [19]},
+	{ "name": "Ned", "from": 25, "to": 30  , "specials": [25]},
+	{ "name": "Hulk", "from": 31, "to": 36 , "specials": [34]},
+	{ "name": "Frank Castle", "from": 37, "to": 42 , "specials": [37,38]},
+	{ "name": "Scorpion", "from": 43, "to": 48 , "specials": [44]},
+	{ "name": "The Hand", "from": 49, "to": 54 , "specials": [50]},
+	{ "name": "Otros Personajes", "from":55, "to": 70 , "specials": [55,58,60,66,69]},
+	{ "name": "Jean Grey", "from": 71, "to": 76 , "specials": [72]},
+	{ "name": "Spiderman: Un Nuevo Dia", "from": 77, "to": 142 , "specials": [78,81,83,102,125]},
+	{ "name": "The Spectacular Spiderman", "from": 143, "to": 148 },
+	{ "name": "Personajes", "from": 149, "to": 154 , "specials": [149,152]},
+	{ "name": "Heroes", "from": 155, "to": 160 , "specials": [158]},
+	{ "name": "Villanos", "from": 161, "to": 191 , "specials": [172,178,180,181]},
+	{ "name": "Spidey: Sorprendentes Amigos", "from": 192, "to": 212 , "specials": [197,203,205]},
+    { "name": "Troqueladas", "prefix": "T", "count": 10 }
+  ]
+}

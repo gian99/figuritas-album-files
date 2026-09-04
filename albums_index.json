@@ -100,5 +100,17 @@
     "file": "albums/editorial_berlin_animal_planet.json",
     "visible": true,
     "version": 1
+  },
+  {
+    "id": "editorial_oriental_spiderman_brand_new_day",
+    "file": "albums/editorial_oriental_spiderman_brand_new_day.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "woow_stickers_spiderman_un_nuevo_dia",
+    "file": "albums/woow_stickers_spiderman_un_nuevo_dia.json",
+    "visible": true,
+    "version": 1
   }
 ]

@@ -1,0 +1,14 @@
+{
+  "albumName": "Spiderman Brand New Day",
+  "editorial": "Editorial Oriental",
+  "sections": [
+    { "name": "Spiderman: Homecoming", "from": 1, "to": 18 },
+	{ "name": "Avengers: Infinity War", "from": 19, "to": 27 },
+	{ "name": "Avengers: Endgame", "from": 28, "to": 35 },
+	{ "name": "Spiderman: Far From Home", "from": 36, "to": 51 },
+	{ "name": "Spiderman: No Way Home", "from": 52, "to": 84},
+	{ "name": "Spiderman: Brand New Day", "from": 85, "to": 111 },
+	{ "name": "Spiderman", "from": 112, "to": 133},
+    { "name": "Especiales", "prefix": "S", "count": 24 }
+  ]
+}
