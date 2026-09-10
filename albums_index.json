@@ -112,5 +112,17 @@
     "file": "albums/woow_stickers_spiderman_un_nuevo_dia.json",
     "visible": true,
     "version": 2
+  },
+  {
+    "id": "editorial_oriental_coyote_vs_acme",
+    "file": "albums/editorial_oriental_coyote_vs_acme.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "dkv_colecciones_thundercats",
+    "file": "albums/dkv_colecciones_thundercats.json",
+    "visible": true,
+    "version": 1
   }
 ]

@@ -1,0 +1,19 @@
+{
+  "albumName": "Coyote vs Acme",
+  "editorial": "Editorial Oriental",
+  "sections": [
+    { "name": "Intro", "from": 1, "to": 4},
+	{ "name": "Coyote", "from": 5, "to": 24 },
+	{ "name": "Todo lo que Acme puede ofrecer", "from": 25, "to": 35 },
+	{ "name": "Aliados", "from": 36, "to": 45 },
+	{ "name": "Coorporacion Acme", "from": 46, "to": 56 },
+	{ "name": "Coyote Acme", "from": 57, "to": 68 },
+	{ "name": "Acme vs Correcaminos", "from": 69, "to": 76 },
+	{ "name": "Looney Tones en Accion", "from": 77, "to": 96 },
+	{ "name": "Acme fuera de control", "from": 97, "to": 106 },
+	{ "name": "Caso Cerrado", "from": 107, "to": 116 },
+	{ "name": "La ultima batalla del Coyote", "from": 117, "to": 138 },
+	{ "name": "Eso es todo amigos", "from": 139, "to": 144 },
+    { "name": "Figuras Especiales", "prefix": "_lbl_especiales", "labels": ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","Ñ","O","P","Q","R","S","T","U","V","W"], "allSpecial": true, "emoji": "⭐" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "albumName": "Thundercats",
+  "editorial": "DKV Colecciones",
+  "sections": [
+    { "name": "Leono", "from": 1, "to": 7 },
+	{ "name": "Pantro", "from": 8, "to": 14 },
+	{ "name": "Tigro", "from": 15, "to": 21 },  
+	{ "name": "Cheetara", "from": 22, "to": 28 },  
+	{ "name": "Snarf", "from": 29, "to": 35 },  
+	{ "name": "Felino", "from": 36, "to": 42 },  
+	{ "name": "Felina", "from": 43, "to": 49 },  
+	{ "name": "El Cubil Felino", "from": 50, "to": 55 },
+    { "name": "Personajes", "prefix": "S", "count": 10 },  
+	{ "name": "El Tanque Felino", "from": 56, "to": 61 },  
+	{ "name": "Los Mutantes", "from": 62, "to": 68 }, 
+	{ "name": "Reptilio", "from": 69, "to": 75 },  
+	{ "name": "Chacal", "from": 76, "to": 81 },  
+	{ "name": "Mandrilo", "from": 82, "to": 86 },  
+	{ "name": "Mumm-Ra", "from": 87, "to": 100 },  
+	{ "name": "Leono vs Mumm-Ra", "from": 101, "to": 112 },  
+	{ "name": "Stickers Especiales", "prefix": "_lbl_especiales", "labels": ["A","B","C","D","E","F","G","H","I","J","K","L","M"], "allSpecial": true, "emoji": "⭐" }
+  ]
+}
