@@ -17,7 +17,7 @@
 	{ "name": "Personajes", "from": 149, "to": 154 , "specials": [149,152]},
 	{ "name": "Heroes", "from": 155, "to": 160 , "specials": [158]},
 	{ "name": "Villanos", "from": 161, "to": 191 , "specials": [172,178,180,181]},
-	{ "name": "Spidey: Sorprendentes Amigos", "from": 192, "to": 212 , "specials": [197,203,205]},
+	{ "name": "Spidey: Sorprendentes Amigos", "from": 192, "to": 213 , "specials": [197,203,205]},
     { "name": "Troqueladas", "prefix": "T", "count": 12 }
   ]
 }
