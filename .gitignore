@@ -1,0 +1,6 @@
+# Solo se versionan albums/, albums_index.json y figuritas_app_compat.json; todo lo demás se ignora
+/*
+!/.gitignore
+!/albums/
+!/albums_index.json
+!/figuritas_app_compat.json
