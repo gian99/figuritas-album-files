@@ -124,5 +124,17 @@
     "file": "albums/dkv_colecciones_thundercats.json",
     "visible": true,
     "version": 1
+  },
+  {
+    "id": "flash_edition_mundial_clubes_2025",
+    "file": "albums/flash_edition_mundial_clubes_2025.json",
+    "visible": true,
+    "version": 1
+  },
+  {
+    "id": "gigamaxx_editorial_pokemon_30_aniversario",
+    "file": "albums/gigamaxx_editorial_pokemon_30_aniversario.json",
+    "visible": true,
+    "version": 1
   }
 ]

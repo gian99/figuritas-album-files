@@ -1,0 +1,18 @@
+{
+  "albumName": "Pokémon 30 Aniversario",
+  "editorial": "Gigamaxx Editorial",
+  "sections": [
+    { "name": "Intro", "from": 1, "to": 32 },
+    { "name": "Kanto - Primera Generación", "from": 33, "to": 59, "specials": [34, 39, 47, 50, 51], "group": "Generaciones" },
+    { "name": "Johto - Segunda Generación", "from": 60, "to": 86, "specials": [62, 72, 76, 80, 86], "group": "Generaciones" },
+    { "name": "Hoenn - Tercera Generación", "from": 87, "to": 113, "specials": [88, 89, 96, 101, 112], "group": "Generaciones" },
+    { "name": "Sinnoh - Cuarta Generación", "from": 114, "to": 140, "specials": [120, 127, 135], "group": "Generaciones" },
+    { "name": "Unova - Quinta Generación", "from": 141, "to": 167, "specials": [148, 158, 164], "group": "Generaciones" },
+    { "name": "Kalos - Sexta Generación", "from": 168, "to": 194, "specials": [169, 179, 192], "group": "Generaciones" },
+    { "name": "Alola - Séptima Generación", "from": 195, "to": 221, "specials": [196, 211, 217], "group": "Generaciones" },
+    { "name": "Galar - Octava Generación", "from": 222, "to": 248, "specials": [222, 237, 247], "group": "Generaciones" },
+    { "name": "Paldea - Novena Generación", "from": 249, "to": 275, "specials": [249, 271], "group": "Generaciones" },
+    { "name": "Pokémon Anime", "from": 276, "to": 299 },
+    { "name": "Los TCG más importantes", "from": 300, "to": 317 }
+  ]
+}
