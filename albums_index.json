@@ -136,5 +136,11 @@
     "file": "albums/gigamaxx_editorial_pokemon_30_aniversario.json",
     "visible": true,
     "version": 1
+  },
+  {
+    "id": "3_reyes_bts",
+    "file": "albums/3_reyes_bts.json",
+    "visible": true,
+    "version": 1
   }
 ]

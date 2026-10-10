@@ -1,0 +1,29 @@
+{
+  "albumName": "BTS",
+  "editorial": "3 Reyes",
+  "sections": [
+    { "name": "Beyond the Scene", "from": 1, "to": 7 , "specials": [1]},
+    { "name": "BTS de Seúl a conquistar el Mundo", "from": 8, "to": 20 , "specials": [9,16]},
+    { "name": "La trilogía escolar y el desafío (2013-2014)", "from": 21, "to": 28 },
+    { "name": "El despertar de la juventud (2015)", "from": 29, "to": 36 },
+    { "name": "Las alas, el arte y la Tentación (2016-2017)", "from": 37, "to": 44 },
+    { "name": "El viaje hacia el amor propio (2017-2018)", "from": 45, "to": 53 },
+    { "name": "El mapa de las almas y las sombras (2019-2020)", "from": 54, "to": 61 },
+    { "name": "El consuelo y la cima global (2020-2021)", "from": 62, "to": 70 },
+    { "name": "La Antología y la promesa (2022)", "from": 71, "to": 79 },
+    { "name": "El capítulo 2 (2022-2025)", "from": 80, "to": 86 },
+    { "name": "Canciones que hicieron vibrar al planeta", "from": 87, "to": 98 , "specials": [89,96]},
+    { "name": "El gran regreso", "from": 99, "to": 105 , "specials": [103]},
+    { "name": "2026 Arirang Tour", "from": 106, "to": 110 , "specials": [110]},
+    { "name": "RM", "from": 111, "to": 122 , "specials": [112,122]},
+    { "name": "Jin", "from": 123, "to": 134 , "specials": [126,131]},
+    { "name": "Suga", "from": 135, "to": 146 , "specials": [136,143]},
+    { "name": "J-Hope", "from": 147, "to": 158 , "specials": [151,156]},
+    { "name": "Jimin", "from": 159, "to": 170 , "specials": [162,166]},
+    { "name": "V", "from": 171, "to": 182 , "specials": [173,178]},
+    { "name": "Jung Kook", "from": 183, "to": 194 , "specials": [186,190]},
+    { "name": "Match Animal", "from": 195, "to": 201},
+    { "name": "Encarte", "prefix": "E", "count": 30  , "specials": [1,2,3,4,5,6,7,23,24,25,26]},
+    { "name": "Troqueladas", "prefix": "T", "count": 25 }
+  ]
+}
